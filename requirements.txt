@@ -1,0 +1,9 @@
+basicsr
+einops
+numpy
+opencv_python
+timm
+torch
+torch
+torchvision
+tqdm
