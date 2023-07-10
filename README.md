@@ -20,3 +20,8 @@ python main.py "/path/to/normal/images" "/path/to/depth/maps/output/folder"
 ```
 
 That is it! Enjoy.
+
+![Wonka](https://raw.githubusercontent.com/ostris/batch-depth-map/main/assets/wonka.jpg)
+
+![Wonka Depth Map](https://raw.githubusercontent.com/ostris/batch-depth-map/main/assets/wonka_depth.jpg)
+
