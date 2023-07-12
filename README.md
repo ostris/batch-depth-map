@@ -2,6 +2,10 @@
 
 This is a simple python script to convert a batch of images from a folder to depth maps using the [MiDaS](https://github.com/isl-org/MiDaS) model.
 
+# Deprecated!
+This will still work fine for MiDaS depth, but my other repo has many more models and is more up to date.
+Check it out here: [Batch Annotator](https://github.com/ostris/batch-annotator)
+
 ## Installation
 
 1. Clone this repository
